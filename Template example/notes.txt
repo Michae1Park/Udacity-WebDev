@@ -1,0 +1,3 @@
+- Use Html Template inheritance for common stuff
+
+- Use auto escape when possible. Escaping is important!!

@@ -1,0 +1,21 @@
+<!-- this formats posts into frontpage -->
+
+<div class="post">
+	<div class="post-heading">
+		<a href="/blog/" class="post-title">
+			{{post_obj.subject}}
+		</a>
+
+		<div class="post-date">
+			{{post_obj.created.strftime("%b %d, %Y")}}
+		</div>
+	</div>
+
+	<div class="post-content">
+		{{post_obj._render_text | safe}}
+	</div>
+</div>
+
+
+
+

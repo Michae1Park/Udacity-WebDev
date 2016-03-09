@@ -1,0 +1,11 @@
+*Currently only works on desktop.
+
+Need to create separte style sheet for mobile
+http://www.codeproject.com/Articles/762201/Adjusting-your-websites-to-fit-all-types-of-resolu
+
+*Need to setup database for blog
+-first figure out how to post and delete from google appstore database
+-create blog post list page
+
+*Fonts and Color - google style
+
